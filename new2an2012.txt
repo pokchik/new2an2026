@@ -1,0 +1,73 @@
+The 12th International Conference on Next Generation Wired/Wireless Advanced Networking NEW2AN 2012
+http://www.new2an.org/
+
+August 27 - 29, 2012
+St.Petersburg, Russia
+
+co-located with
+the 5th International Conference on Internet of Things and Smart Spaces ruSMART 2012
+http://rusmart.e-werest.org/2012.html
+
+HIGHLIGHTS
+
+- NEW2AN/ruSMART 2012 proceedings will be published in Springer's LNCS (confirmed) and indexed by relevant databases such as ISI, WoS (Web of Science), EI (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus etc.
+- Submission deadline (extended) May 3, 2012
+- Acceptance rate is 35% (5 years)
+- Authors of selected best papers will be invited to submit extended versions of their papers to be published in a special issue of a journal TBA
+
+CALL FOR PAPERS
+
+About the Conference
+
+Next-generation mobile networks will evolve out of existing wired and wireless networks of different nature by means of convergence, fusion and mutual penetration; next-generation multimedia services in turn pose new requirements and challenges on treatment of traffic within communication systems – a certain degree of multilayer co-operation has to be achieved. This forms a framework on harmonization of results obtained separately in different areas of network research like network performance evaluation, architecture and protocol design, and low layer network design. The conference goal is in the identification, investigation and integration of new algorithms, approaches, architectures, methods and mechanisms to enable proper and efficient operation of a next-generation IP-based wireless network. Therefore, wireless networks and their interaction with wired networks shall be widely examined and addressed throughout the conference.
+
+The history of NEW2AN dates back to 1993, today it is an established conference featured by proceedings published by Springer LNCS (confirmed) and distinguished keynote speakers.
+
+The NEW2AN 2012 will be held in St. Petersburg, Russia - the meeting point of East and West. Through its stunning architecture and wonderful art galleries and museums, among a number of other attractions, the wealth of history of East and West can be seen and felt in this beautiful city.
+
+Topics of interest
+
+Topics of interest include but are not limited to:
+
+o Femtocells
+o End-to-end Quality of Service Support
+o Traffic Characterization and Modeling
+o New Teletraffic and Network Traffic Challenges and Paradigms
+o Performance Evaluation
+o Resource Management and Admission Control
+o Cross-layer Interactions
+o P2P and P2P Overlays
+o Delay Tolerant networking
+o Routing and Addressing
+o Overlay Networks
+o Home Networks
+o Transport Protocols
+o Network Planning
+o Network Economics and Game Theoretic Modeling
+o Network Security in Wired and Wireless
+o Network Management Applications
+o Services and Applications
+o Mobile Service Level Agreements and Specification
+o Mesh and Ad-hoc Networks
+o MANETs and VANETs
+o Wireless Multimedia
+o Wireless Sensor Networks
+o Handover Techniques
+o Broadcast and Satellite Communications
+o Trust and Reputation
+o SPAM and SPIT Prevention
+o Convergence of Broadcast and Communications Technologies
+o Solutions for Consumer Communications
+o Digital TV and Radio Broadcasting
+
+Paper submission
+
+The authors are encouraged to submit full papers describing original, previously unpublished, complete research, not currently under review by another conference or journal, addressing state-of-the-art research and development in all areas of computer networking and data communications. All papers will be reviewed and accepted papers will appear in the conference proceedings, published by Springer-Verlag in the LNCS series. Papers must be submitted electronically in the conference site. The maximum size of papers should be 5000 words including tables and figures. Please adhere to the formatting standard for a 12-page manuscript of Springer-Verlag LNCS. The cover page must contain an abstract of about 150 words, 3-5 keywords, name and affiliation of author(s) as well as the corresponding author's e-mail and postal address. Selected best papers will appear in a journal special issue.
+
+Important dates
+
+Extended paper submission May 3, 2012
+Notification of acceptance May 23, 2012
+Camera ready version June 03, 2012
+
+For further and up-to-date information please visit official web page of the Conference http://www.new2an.org

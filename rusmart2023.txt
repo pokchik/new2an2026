@@ -1,0 +1,89 @@
+The 16th conference on Internet of Things and Smart Spaces ruSMART 2023
+December 21 - 22, 2023
+Dubai, UAE
+HIGHLIGHTS
+
+- The conference will be implemented in hybrid format
+- ruSMART 2023 proceedings will be published in Springer's LNCS and indexed by relevant databases such as SCOPUS.
+- Extended Submission deadline November 15, 2023
+- Acceptance rate is 35% (5 years) 
+- Authors of selected best papers will be invited to submit extended versions of their papers to be published in a special issue of a journal Begell Telecommunications and Radio Engineering
+ 
+CALL FOR PAPERS
+About the Conference
+
+Nowadays we see strong demand for development of robust infrastructure
+for retrieving, storing and processing information of various types,
+which is obtained from and delivered to the broad spectrum of different
+user devices. This is especially critical when the volume of information
+increases as rapidly as its value. As a consequence the methods and
+solutions for efficient processing, reusing and reasoning over user's
+data has gained a lot of attention in the last years and became the key
+aspect of application design. Further developments in this field creates
+a lot of opportunities to apply new business models and is a key enabler
+for the concept of pro-active service. 
+
+The wireless solutions have moved beyond their traditional areas of
+application and today we can talk about a space where users can access
+a number of wireless technologies and interact with various services.
+Also the Internet of Things disrupts limitations of Internet that use
+to based on human-entered data. New technologies for short-range and
+low-power wireless communications, real-time localization and sensor
+networks allow computers to perceive the world. Support of the future
+commercial success of IoT solutions require efficient and scalable
+infrastructures for managing, sharing and processing collected data.
+We can see that reseach on interlinking of the physical and cyber worlds
+is becoming more and more relevant. This conference is targeted to bring
+together top specialist in the field to discuss ongoing studies and
+obtained results.
+
+Similarly, existent and future services cover the wide range of user
+demands, ranging from searching and browsing contents to interactive
+context and location aware solution that explore advanced multimedia
+capabilities of the surrounding devices. These layers form a smart
+environment that harmonizes a number of technologies and provides the
+best possible personalized user experience. Also it helps to address
+a number of challenges of the modern society, starting from efficient
+indoor use of energy and to smart logistics and broad-scope deployment
+of the green principles and technologies. This conference will explore
+and explain the scope and challenges of smart space technologies and
+solutions. In this regard, the conference aims to bring together
+research professionals from diverse fields including but not limited
+to wireless communication, ubiquitous networks, software development,
+multimedia, services, and business in both academia and industry.
+Conference proceedings will be published in LNCS, Springer (confirmed)
+and indexed by relevant databases. 
+
+
+
+Topics of interest include but are not limited to:
+
+- Internet of Things and related technologies
+- Heterogeneous communication technologies for smart spaces and IoT
+- Design of technologies for linking the physical and virtual world
+- Semantic web, distributed information management and processing
+- Smart-M3 platform and research on Smart Spaces architectures
+- Smart energy efficiency, green technologies and Smart Grids
+- Novel services and applications on top of smart spaces and IoT
+- Role of cloud computing in smart spaces and IoT
+- New business models and breakthrough use cases for smart spaces and IoT
+- IoT enabling communication systems and network architectures
+- Personal and body networks, wearable computing, IoT in m-Health
+- Wireless technologies for smart spaces
+- Experience of use networked things and smart spaces in healthcare,
+  logistics, transport, etc.
+- Social impacts and consequences of IoT deployment, such as security,
+  privacy, opportunities, risks, etc.
+- Distributed and pervasive services, pro-active service provision
+- Service discovery and composition in smart environments
+- Convergence of technologies for smart spaces
+- Smart environments for house/office/shop/city/transport/hospital/etc
+- Tools for modeling and prototyping smart spaces and IoT
+- Heterogeneous sensor information fusion in smart space
+- Intelligent multi-modal user interface and impact of combined use of
+  various human-computer interface modalities
+- Learning technologies in smart spaces
+
+Paper submission 
+
+The authors are encouraged to submit full papers describing original, previously unpublished, complete research, not currently under review by another conference or journal, addressing state-of-the-art research and development in all areas of computer networking and data communications. All papers will be reviewed and accepted papers will appear in the conference proceedings, published by Springer-Verlag in the LNCS series. Papers must be submitted electronically in the conference site. The maximum size of papers should be 5000 words including tables and figures. Please adhere to the formatting standard for a 12-page manuscript of Springer-Verlag LNCS. The cover page must contain an abstract of about 150 words, 3-5 keywords, name and affiliation of author(s) as well as the corresponding author's e-mail and postal address. Selected best papers will appear in a journal special issue. 
