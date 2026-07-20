@@ -728,3 +728,95 @@ a.top-panel-button:focus {
     transform: translateY(-3px);
     box-shadow: 0 9px 20px rgba(10,55,97,.14);
 }
+
+
+/* === Unified horizontal navigation: dark blue buttons with light icons === */
+table.top-nav-uniform {
+    width: 1023px !important;
+    height: 42px !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+    margin: 0 !important;
+    background: #082f66 !important;
+    border-top: 1px solid rgba(255,255,255,.18) !important;
+    border-bottom: 3px solid #55b6e8 !important;
+    box-shadow: 0 3px 8px rgba(5,35,72,.22) !important;
+}
+table.top-nav-uniform td {
+    height: 42px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    border-right: 1px solid rgba(184,224,247,.25) !important;
+    background: transparent !important;
+}
+table.top-nav-uniform td:last-child { border-right: 0 !important; }
+a.top-nav-link,
+a.top-nav-link:link,
+a.top-nav-link:visited {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 7px !important;
+    width: 100% !important;
+    height: 42px !important;
+    padding: 0 7px !important;
+    box-sizing: border-box !important;
+    color: #f3fbff !important;
+    background: linear-gradient(180deg, #155493 0%, #082f66 100%) !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 11px !important;
+    line-height: 1.05 !important;
+    font-weight: 700 !important;
+    letter-spacing: .25px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    text-shadow: 0 1px 1px rgba(0,0,0,.45) !important;
+    white-space: normal !important;
+    transition: background .18s ease, box-shadow .18s ease, transform .18s ease !important;
+}
+a.top-nav-link:hover,
+a.top-nav-link:focus,
+a.top-nav-link.is-current {
+    color: #ffffff !important;
+    background: linear-gradient(180deg, #2678b8 0%, #0b4687 100%) !important;
+    box-shadow: inset 0 -3px 0 #a9e6ff, inset 0 1px 0 rgba(255,255,255,.22) !important;
+    text-decoration: none !important;
+}
+a.top-nav-link:hover { transform: translateY(-1px) !important; }
+.top-nav-icon {
+    position: relative !important;
+    flex: 0 0 22px !important;
+    width: 22px !important;
+    height: 22px !important;
+    border: 1px solid rgba(210,240,255,.72) !important;
+    border-radius: 50% !important;
+    background: rgba(205,239,255,.14) !important;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.24) !important;
+}
+.top-nav-icon::before {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%,-52%) !important;
+    color: #d9f4ff !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 1 !important;
+    font-weight: 700 !important;
+    text-shadow: 0 1px 1px rgba(0,0,0,.35) !important;
+}
+.nav-about .top-nav-icon::before { content: "i" !important; font-family: Georgia, serif !important; font-style: italic !important; }
+.nav-papers .top-nav-icon::before { content: "≡" !important; font-size: 17px !important; }
+.nav-program .top-nav-icon::before { content: "▦" !important; }
+.nav-registration .top-nav-icon::before { content: "✓" !important; }
+.nav-organizers .top-nav-icon::before { content: "◆" !important; font-size: 11px !important; }
+.nav-panel .top-nav-icon::before { content: "●" !important; font-size: 11px !important; }
+
+/* Retire the earlier one-off Panel Discussion styling. */
+a.top-panel-button { display: none !important; }
+
+@media (max-width: 1060px) {
+    table.top-nav-uniform { width: 1023px !important; }
+}
