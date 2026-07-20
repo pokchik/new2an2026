@@ -1,0 +1,25 @@
+NEW2AN 2026 WEBSITE VISUAL REFRESH
+=====================================
+
+Updated: 20 July 2026
+
+WHAT CHANGED
+- Added a very light blue gradient and subtle technology-dot background.
+- Preserved the original NEW2AN banner, top navigation images, filenames, and links.
+- Added a refined white central canvas with a soft shadow.
+- Improved the content area using a subtle gradient/watermark effect.
+- Redesigned page title bars using the existing #content-head-line element.
+- Improved side-menu appearance and hover feedback.
+- Improved typography, links, spacing, blockquotes, and form elements.
+- Added safe small-screen horizontal scrolling without breaking the legacy layout.
+- Added viewport metadata to HTML pages.
+
+DEPLOYMENT
+1. Keep a backup of the current live website.
+2. Upload the contents of this folder to the same GitHub repository or hosting directory.
+3. Replace the existing style.css and HTML files with these versions.
+4. Preserve the Images folder and all PDFs/files.
+5. After deployment, use Ctrl+F5 (Windows) or Cmd+Shift+R (Mac) to bypass browser cache.
+
+ROLLBACK
+Restore the previous style.css and HTML files from your backup.
