@@ -429,3 +429,97 @@ body.modern-site td.content blockquote {
   }
 }
 
+
+/* Use the former blue filler area after Organizers as a proper menu item. */
+body.modern-site td.top-menu-panel {
+  width: 220px;
+  height: 33px;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+  background: linear-gradient(180deg, #123c78 0%, #08205c 100%);
+}
+
+body.modern-site td.top-menu-panel a,
+body.modern-site td.top-menu-panel a:visited {
+  display: flex;
+  width: 220px;
+  height: 33px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 33px;
+  text-decoration: none;
+  text-align: center;
+  letter-spacing: 0.1px;
+  transition: background-color .18s ease, box-shadow .18s ease;
+}
+
+body.modern-site td.top-menu-panel a:hover,
+body.modern-site td.top-menu-panel a:active {
+  color: #ffffff;
+  text-decoration: none;
+  background: rgba(255,255,255,0.12);
+  box-shadow: inset 0 -3px 0 rgba(255,255,255,0.55);
+}
+
+
+/* FINAL NAVIGATION CONSISTENCY FIX — July 20, 2026 */
+/* Keep the same modern background even when a page contains an inline body rule. */
+html body.modern-site {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(34,100,166,.055) 0 1px, transparent 1.5px) 0 0 / 28px 28px,
+    linear-gradient(135deg, #f8fbff 0%, #eef5fc 52%, #f7faff 100%) !important;
+  background-attachment: fixed !important;
+}
+
+/* Use a real image for Panel Discussion, not a blank CSS table filler. */
+body.modern-site td.top-menu-panel {
+  display: none !important;
+}
+
+/* Force the vertical navigation interaction to remain identical on every page,
+   including index.html and cfp.html, despite local or legacy style rules. */
+html body.modern-site td#vertical-menu {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  height: 34px !important;
+  padding: 7px 12px 6px 20px !important;
+  border-left: 3px solid transparent !important;
+  background-color: #e4edf8 !important;
+  background-image: linear-gradient(90deg, #edf4fc 0%, #dce8f7 100%) !important;
+  background-repeat: no-repeat !important;
+  transition: background .18s ease, border-color .18s ease, padding-left .18s ease, box-shadow .18s ease !important;
+  cursor: pointer;
+}
+
+html body.modern-site td#vertical-menu:hover {
+  padding-left: 23px !important;
+  border-left-color: #1769aa !important;
+  background-image: linear-gradient(90deg, #dceafa 0%, #cddff3 100%) !important;
+  box-shadow: inset 0 0 0 1px rgba(23,105,170,.08) !important;
+}
+
+html body.modern-site td#vertical-menu > a,
+html body.modern-site td#vertical-menu > a:visited {
+  display: block !important;
+  width: 100% !important;
+  color: #0b2a57 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  line-height: 20px !important;
+  text-decoration: none !important;
+  transition: color .18s ease !important;
+}
+
+html body.modern-site td#vertical-menu:hover > a,
+html body.modern-site td#vertical-menu > a:hover,
+html body.modern-site td#vertical-menu > a:active {
+  color: #0b4f96 !important;
+  text-decoration: none !important;
+}
