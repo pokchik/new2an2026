@@ -12,3 +12,12 @@ Updated:
 
 Important review note:
 The policy text was adapted for NEW2AN from the CRIS Global examples and aligned with the existing registration page. The conference organizers/payment account holder should confirm the legal entity name, governing law, payment-provider identity, data-retention periods, and cancellation remedy before accepting live payments.
+
+
+DESIGN IMPROVEMENTS (July 25, 2026)
+- Added a polished introductory panel to each policy page.
+- Added policy navigation tabs.
+- Presented each numbered section in a clean card.
+- Improved spacing, typography, highlighted notices, contact boxes, and mobile display.
+- Added a Back to Registration button.
+- Policy wording and refund position were not materially changed.
