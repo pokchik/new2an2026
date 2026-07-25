@@ -1,0 +1,14 @@
+NEW2AN policy update completed July 25, 2026
+
+Created:
+- terms.html
+- privacy.html
+- refund.html
+
+Updated:
+- Added Terms & Conditions, Privacy Policy, and Refund Policy links to all top-level HTML pages.
+- Added direct policy links in the Registration Policies section.
+- Preserved the existing rule that registration fees are generally non-refundable.
+
+Important review note:
+The policy text was adapted for NEW2AN from the CRIS Global examples and aligned with the existing registration page. The conference organizers/payment account holder should confirm the legal entity name, governing law, payment-provider identity, data-retention periods, and cancellation remedy before accepting live payments.
