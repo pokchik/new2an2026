@@ -854,3 +854,14 @@ body.hackathon-layout .hackathon-page {
     margin-right: 0 !important;
   }
 }
+
+
+/* === Hackathon section heading contrast fix ===
+   Keep section titles crisp and readable on the dark-blue bars. */
+.hackathon-page .hackathon-section > h2,
+.hackathon-section > h2 {
+  background: linear-gradient(90deg, #173B7A 0%, #214C8D 100%);
+  color: #FFFFFF !important;
+  font-weight: 700;
+  text-shadow: 0 1px 1px rgba(0,0,0,.22);
+}
