@@ -1,21 +1,14 @@
 NEW2AN 2026 Website Deadline Update
-Date updated: 31 July 2026
+Date updated: 1 September 2026
 
 Committee instruction implemented:
-The full paper submission deadline has been extended by 31 August 2026 to 31 August 2026.
+- Full paper submission deadline extended to 15 September 2026.
+- Notification of acceptance updated to 30 September 2026.
 
-Files updated:
+Active 2026 files updated:
 1. index.html
-   - Homepage announcement updated.
-   - Important Dates panel updated.
-   - Added clear wording that the deadline was extended by 31 August 2026.
 2. cfp.html
-   - Call for Papers deadline updated and labelled as extended.
 3. dates.html
-   - Important Dates deadline updated.
-   - Added an “Extended by 31 August 2026” note.
 4. new2an2026-cfp.txt
-   - Both 2026 deadline references synchronized to 31 August 2026.
 
-Verification:
-No remaining references to 30 July 2026, July 30, 2026, or July 15, 2026 were found in the active HTML/TXT website files.
+Other milestone dates were left unchanged unless explicitly requested by the committee.
