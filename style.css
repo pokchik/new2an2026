@@ -271,7 +271,7 @@ body.modern-site #content-head-line {
   min-height: 44px;
   height: auto;
   margin: 0 0 24px 0;
-  padding: 11px 18px 10px 48px;
+  padding: 11px 18px 10px 20px;
   border: 1px solid rgba(255,255,255,0.28);
   border-radius: 6px;
   color: #ffffff;
@@ -285,16 +285,7 @@ body.modern-site #content-head-line {
   box-shadow: 0 6px 16px rgba(8,32,92,0.19);
 }
 
-body.modern-site #content-head-line::before {
-  content: "";
-  position: absolute;
-  width: 9px;
-  height: 9px;
-  margin: 6px 0 0 -27px;
-  border: 2px solid rgba(255,255,255,0.92);
-  border-radius: 50%;
-  box-shadow: 12px 0 0 -2px rgba(255,255,255,0.72);
-}
+body.modern-site #content-head-line::before { content: none !important; display: none !important; }
 
 /* Left navigation: cleaner cards without changing any link destinations. */
 body.modern-site #vertical-menu {
