@@ -1,9 +1,11 @@
-NEW2AN 2026 Website Deadline Update
-Date updated: 3 September 2026
+NEW2AN 2026 Website Update — 19 September 2026
 
 Committee instruction implemented:
-- Full paper submission deadline extended to 20 September 2026.
-- Notification of acceptance remains 30 September 2026.
+- Paper Submission deadline updated to 30 September 2026 wherever applicable.
+- Notification of Acceptance remains 30 September 2026.
 
-Active 2026 deadline locations were checked and synchronized, including the homepage, Call for Papers, Important Dates, and downloadable CFP text.
-Other milestone dates were left unchanged unless explicitly requested by the committee.
+Additional event added:
+- Invited Talk: Building Reliable Agentic AI Solutions for Enterprise: Tools, Methodologies and Governance
+- Dr. Chanaka Rupasinghe
+- Friday, 25 September 2026, 3:30 PM Sri Lanka Time, online via Zoom
+- Poster added to homepage and a dedicated invited-talk.html page.
