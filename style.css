@@ -856,3 +856,9 @@ body.hackathon-layout .hackathon-page {
   font-weight: 700;
   text-shadow: 0 1px 1px rgba(0,0,0,.22);
 }
+
+
+/* === Compact sidebar spacing fix === */
+body.modern-site td#vertical-menu { vertical-align: middle !important; }
+body.modern-site td#vertical-menu + td { height: auto; }
+body.modern-site tr > td > img[src="Images/empty.jpg"][height="1"] { display:block !important; height:1px !important; line-height:1px !important; }
