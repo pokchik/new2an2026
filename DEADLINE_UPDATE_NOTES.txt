@@ -1,14 +1,8 @@
-NEW2AN 2026 Website Schedule Update — 20 September 2026
+NEW2AN 2026 Website Schedule Update — 2 October 2026
 
-Current dates:
-- Paper Submission deadline: 30 September 2026.
-- Notification of Acceptance: 15 October 2026.
-- Camera-Ready Paper Submission: 25 October 2026.
+- Paper Submission deadline: 7 October 2026
+- Notification of Acceptance: 15 October 2026
+- Camera-Ready Paper Submission: 25 October 2026
 
-Updated wherever applicable in the active 2026 website, including:
-- index.html
-- dates.html
-- cfp.html
-- new2an2026-cfp.txt
-
-Historical conference files were left unchanged.
+Updated wherever applicable in the active NEW2AN 2026 website.
+Historical conference content was left unchanged.
