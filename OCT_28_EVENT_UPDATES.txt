@@ -1,0 +1,6 @@
+NEW2AN 2026 — 28 October updates
+3MT: official poster, eligibility corrected (graduates not eligible), competition details and registration retained.
+Hackathon: new 16 December 2026, 9:00 AM SLIIT event poster added; existing global undergraduate hackathon details preserved.
+Panel Discussions 01 and 02: Technical and Policy Level Panel Discussion (15 December).
+Panel Discussion 03: Industrial Forum Panel Discussion (16 December).
+Panel hub and homepage links updated. All new posters copied to Images/.
