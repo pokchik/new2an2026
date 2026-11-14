@@ -862,3 +862,15 @@ body.hackathon-layout .hackathon-page {
 body.modern-site td#vertical-menu { vertical-align: middle !important; }
 body.modern-site td#vertical-menu + td { height: auto; }
 body.modern-site tr > td > img[src="Images/empty.jpg"][height="1"] { display:block !important; height:1px !important; line-height:1px !important; }
+
+/* NEW2AN 2026: reliable, readable sidebar navigation */
+#vertical-menu {box-sizing:border-box!important;height:auto!important;min-height:43px!important;padding-top:10px!important;padding-bottom:10px!important;padding-right:12px!important;vertical-align:middle!important;}
+#vertical-menu a {display:block!important;white-space:normal!important;overflow-wrap:break-word!important;word-break:normal!important;line-height:1.35!important;text-overflow:clip!important;}
+
+/* NEW2AN 2026: sidebar accessibility and keynote visibility, 14 Nov 2026 */
+html body.modern-site td#vertical-menu {height:auto!important;min-height:38px!important;vertical-align:middle!important;padding:0!important;overflow:visible!important;}
+html body.modern-site td#vertical-menu > a,
+html body.modern-site td#vertical-menu > a:link,
+html body.modern-site td#vertical-menu > a:visited {box-sizing:border-box!important;display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;height:auto!important;min-height:38px!important;padding:9px 10px 9px 20px!important;line-height:20px!important;white-space:normal!important;overflow-wrap:break-word!important;text-overflow:clip!important;font-size:13px!important;color:#092a59!important;}
+html body.modern-site td#vertical-menu > a[href="keynote.html"] {font-weight:800!important;color:#092a59!important;background:#d5e7f9!important;border-left:4px solid #1769aa!important;padding-left:16px!important;}
+html body.modern-site td#vertical-menu > a[href="keynote.html"]:hover {background:#bfd9f3!important;color:#063f77!important;}
